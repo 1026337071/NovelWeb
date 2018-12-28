@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.5" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="9e" green="ff" red="ee" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="1" attributes="0">
+                          <Component id="jLabel1" min="-2" pref="104" max="-2" attributes="0"/>
+                          <EmptySpace pref="295" max="32767" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                                  <Component id="jLabel4" min="-2" max="-2" attributes="1"/>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="-2" pref="184" max="-2" attributes="0"/>
+                          <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="50" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Component id="jScrollPane1" min="-2" pref="844" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel1" alignment="3" min="-2" pref="51" max="-2" attributes="0"/>
+                              <Component id="jButton2" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+                  <Component id="jScrollPane1" min="-2" pref="434" max="-2" attributes="0"/>
+                  <EmptySpace pref="16" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Microsoft YaHei UI" size="24" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x5c0f;&#x8bf4;&#x9605;&#x8bfb;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Microsoft YaHei UI" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x4e66;&#x540d;&#xff1a;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Microsoft YaHei UI" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x4e09;&#x5bf8;&#x4eba;&#x95f4;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Microsoft YaHei UI" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x7b2c;&#x56db;&#x7ae0;&#x8282;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="2f" green="6c" red="fa" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x65e0;"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea1">
+              <Properties>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Monospaced" size="18" style="1"/>
+                </Property>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="    &#x6b64;&#x523b;&#x8eab;&#x5fc3;&#x6109;&#x60a6;&#xff0c;&#x738b;&#x5b9d;&#x4e50;&#x770b;&#x5411;&#x7a97;&#x5916;&#x7684;&#x84dd;&#x5929;&#xff0c;&#x4e5f;&#x90fd;&#x89c9;&#x5f97;&#x683c;&#x5916;&#x7f8e;&#x597d;&#x3002;&#xa;&#x53ef;&#x5f88;&#x5feb;&#x5730;&#xff0c;&#x4ed6;&#x7a81;&#x7136;&#x773c;&#x775b;&#x7a81;&#x5730;&#x7741;&#x5927;&#xff0c;&#x6ce8;&#x610f;&#x5230;&#x8fdc;&#x5904;&#x5929;&#x7a7a;&#xff0c;&#x6709;&#x4e00;&#x7247;&#x9ed1;&#x8272;&#x7684;&#x4e91;&#x5c42;&#x51dd;&#x805a;&#xff0c;&#x5f25;&#x6f2b;&#x5982;&#x6b32;&#x906e;&#x5929;&#xff0c;&#x5176;&#x5185;&#xa;&#x6709;&#x96f7;&#x7535;&#xff0c;&#x95ea;&#x70c1;&#x51fa;&#x4e00;&#x9053;&#x9053;&#x7535;&#x5149;&#xff0c;&#x6b63;&#x7f13;&#x7f13;&#x9760;&#x8fd1;&#xff0c;&#x8fd9;&#x4e00;&#x5e55;&#x4e5f;&#x5f15;&#x8d77;&#x4e0d;&#x5c11;&#x5b66;&#x5b50;&#x7684;&#x6ce8;&#x610f;&#xff0c;&#x4f20;&#x51fa;&#x60ca;&#x547c;&#x3002;&#x201c;&#x662f;&#x96f7;&#x78c1;&#x66b4;&#x201d;&#xa;    &#x738b;&#x5b9d;&#x4e50;&#x4e5f;&#x5403;&#x4e86;&#x4e00;&#x60ca;&#xff0c;&#x5b9e;&#x5728;&#x662f;&#x8054;&#x90a6;&#x8e0f;&#x5165;&#x7075;&#x5143;&#x7eaa;&#x540e;&#xff0c;&#x56e0;&#x7075;&#x6c14;&#x7684;&#x51fa;&#x73b0;&#xff0c;&#x5bfc;&#x81f4;&#x5929;&#x5730;&#x95f4;&#x6ecb;&#x751f;&#x4e86;&#x4e0d;&#x5c11;&#x60ca;&#x4eba;&#x7684;&#x6c14;&#xa;&#x8c61;&#xff0c;&#x66fe;&#x7ecf;&#x7684;&#x98de;&#x884c;&#x7269;&#x96be;&#x4ee5;&#x5b89;&#x4e0d;&#x5c11;&#x60ca;&#x4eba;&#x7684;&#x6c14;&#x8c61;&#xff0c;&#x66fe;&#x7ecf;&#x4e0d;&#x5f97;&#x98de;&#x884c;&#x7269;&#x96be;&#x4ee5;&#x5b89;&#x5168;&#xff0c;&#x8fd9;&#x624d;&#x6709;&#x4e86;&#x501a;&#x9760;&#x7075;&#x77f3;&#x9a71;&#x52a8;&#x7684;&#x70ed;&#x6c14;&#xa;&#x7403;&#x98de;&#x8247;&#x7684;&#x8bde;&#x751f;&#x3002;&#xa;    &#x968f;&#x7740;&#x4e0d;&#x65ad;&#x5730;&#x60ca;&#x547c;&#xff0c;&#x8f70;&#x9686;&#x9686;&#x7684;&#x96f7;&#x9e23;&#x7a81;&#x7136;&#x4f20;&#x6765;&#xff0c;&#x5de8;&#x54cd;&#x60ca;&#x5929;&#xff0c;&#x80fd;&#x770b;&#x5230;&#x8fdc;&#x5904;&#x96f7;&#x78c1;&#x9ed1;&#x4e91;&#x98de;&#x901f;&#x58ee;&#x5927;&#xff0c;&#x5176;&#x5185;&#x95ea;&#x7535;&#xa;&#x5df2;&#x7ecf;&#x8513;&#x5ef6;&#x5f00;&#x6765;&#xff0c;&#x5982;&#x540c;&#x9ed1;&#x8272;&#x7684;&#x5927;&#x7f51;&#xff0c;&#x95ea;&#x70c1;&#x5929;&#x9645;&#xff0c;&#x8000;&#x76ee;&#x60ca;&#x5fc3;&#xff0c;&#x8ba9;&#x4eba;&#x5fc3;&#x8df3;&#x4e0d;&#x7531;&#x52a0;&#x5feb;&#xff0c;&#x539f;&#x672c;&#x884c;&#x9a76;&#x4e2d;&#x7684;&#x98de;&#x8247;&#xff0c;&#x6b64;&#xa;&#x523b;&#x4e5f;&#x6162;&#x6162;&#x51cf;&#x901f;&#x3002;&#xa;   &#x5c31;&#x5728;&#x8fd9;&#x4f17;&#x4eba;&#x5fc3;&#x795e;&#x4e0d;&#x5b81;&#x65f6;&#xff0c;&#x98df;&#x9986;&#x5927;&#x95e8;&#x88ab;&#x4eba;&#x63a8;&#x5f00;&#xff0c;&#x4eff;&#x4f5b;&#x6709;&#x98ce;&#x547c;&#x5578;&#xff0c;&#x8d70;&#x8fdb;&#x4e00;&#x4e2a;&#x8eab;&#x7a7f;&#x767d;&#x8272;&#x9053;&#x888d;&#x7684;&#x8001;&#x8005;&#xff0c;&#x8fd9;&#xa;&#x8001;&#x8005;&#x6ee1;&#x8138;&#x76b1;&#x7eb9;&#xff0c;&#x53ef;&#x5374;&#x4ed9;&#x98ce;&#x9053;&#x9aa8;&#xff0c;&#x9762;&#x5bb9;&#x7aef;&#x6b63;&#xff0c;&#x5c24;&#x5176;&#x662f;&#x53cc;&#x76ee;&#x7cbe;&#x5149;&#x95ea;&#x8000;&#xff0c;&#x4e00;&#x8eab;&#x6b63;&#x6c14;&#x6563;&#x53ca;&#x56db;&#x65b9;&#xff0c;&#x521a;&#x4e00;&#x5230;&#x6765;&#xff0c;&#xa;&#x4ed6;&#x5a01;&#x4e25;&#x7684;&#x58f0;&#x97f3;&#x5c31;&#x4f20;&#x904d;&#x6574;&#x4e2a;&#x98df;&#x9986;&#x3002;&#xa;   &#x201c;&#x6240;&#x6709;&#x4eba;&#x7acb;&#x523b;&#x4e8e;&#x4fee;&#x7075;&#x5ba4;&#x62a5;&#x9053;&#xff0c;&#x7a7f;&#x4e0a;&#x4f60;&#x4eec;&#x7684;&#x78c1;&#x7075;&#x670d;&#xff0c;&#x534a;&#x67f1;&#x9999;&#x540e;&#xff0c;&#x6211;&#x4eec;&#x5c06;&#x8fdb;&#x5165;&#x96f7;&#x78c1;&#x533a;&#xff01;&#x201d;&#x8bdd;&#x8bed;&#x4e00;&#x51fa;&#xff0c;&#xa;&#x98df;&#x9986;&#x7684;&#x4f17;&#x5b66;&#x5b50;&#x7eb7;&#x7eb7;&#x656c;&#x754f;&#xff0c;&#x8d76;&#x7d27;&#x7ad9;&#x597d;&#x3002;"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="jButton2">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="2f" green="6c" red="fa" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x4e0a;&#x4e00;&#x7ae0;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
